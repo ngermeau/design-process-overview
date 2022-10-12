@@ -117,7 +117,7 @@ Conduct multiple revision with the customers where you present your wireframes. 
 [ ] Does the wireframe clearly identify the no. 1-2-3 priorities on the design ?   
 [ ] Does the wireframe don’t have more than 1 or 2 elements that are priority 1-2 so your design does not overwhelm ?   
 [ ] Do you use font scale/boldness/uppercase/italic to support visual hierarchy ?  
-[ ] Does the hero answer the 3 main question ? what is this ? what do you do ? what's in it for me ? 
+[ ] Does the hero answer the 3 main question ? what is this ? what do you do ? what's in it for me ?   
 [ ] Did you apply the squint/blur test to verify that visual hiearchy is clear ?    
 #### Devices 
 [ ] Is responsive device implemented (mobile, tablet, destop an in between) ?    

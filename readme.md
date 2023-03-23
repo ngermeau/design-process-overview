@@ -1,6 +1,6 @@
-# Website Design Process 
+# Design Process overview
 
-![website_design_process](website_design_process.png)
+![design_process](design_process.png)
 ## Table of contents
 1. [Customer discovery session](#customer-discovery-session)   
 2. [Proposal](#proposal)    
